@@ -2,10 +2,13 @@
 # This application works with the geo-referencing of the user. The screen displays winter or summer depends of the location. 
 
 ## Installation:
-Download zip-file
-Open in IDE
-Npm install
-Npm start
+download zip-file
+
+open in IDE
+
+npm install
+
+npm start
 
 ## Check:
 https://hardcore-knuth-64492f.netlify.app/
