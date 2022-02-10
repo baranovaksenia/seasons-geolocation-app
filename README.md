@@ -1,3 +1,15 @@
+
+# This application works with the geo-referencing of the user. The screen displays winter or summer depends of the location. 
+
+## Installation:
+Download zip-file
+Open in IDE
+Npm install
+Npm start
+
+## Check:
+https://hardcore-knuth-64492f.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
